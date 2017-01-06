@@ -1,0 +1,13 @@
+<package>
+    <name>clique_python_wrapper</name>
+    <version>0.0.1</version>
+
+    <description> Python wrapper for clique</description>
+    <license> GPL </license>
+    <author></author>
+    <maintainer email="sinyavskiy@braincorporation.com"></maintainer>
+    
+    <buildtool_depend>catkin</buildtool_depend>
+    <build_depend></build_depend>
+    
+</package>
